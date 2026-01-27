@@ -26,8 +26,6 @@ I'm also experienced in **Web3 development**, with a strong understanding of Eth
 
 <p align="left">
   <strong>Languages:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
   <br/><br/>
 
